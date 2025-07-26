@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python
+torch
+torchvision
+sqlalchemy
+databases[postgresql]
+pydantic
+alembic
+python-multipart
+pytest
